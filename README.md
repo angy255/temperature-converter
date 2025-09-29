@@ -20,7 +20,7 @@ A simple web application built with **HTML, CSS, and JavaScript** that converts 
 
 * **HTML5** – structure
 * **CSS3** – styling and responsiveness
-* **JavaScript ** – logic and interactivity
+* **JavaScript** – logic and interactivity
 
 ---
 
@@ -67,10 +67,6 @@ A simple web application built with **HTML, CSS, and JavaScript** that converts 
 
 Contributions are welcome!
 
-1. Fork the repo
-2. Create your feature branch (`git checkout -b feature/my-new-feature`)
-3. Commit changes (`git commit -m 'Add new feature'`)
-4. Push to the branch (`git push origin feature/my-new-feature`)
-5. Open a Pull Request
+If you’d like to improve the game (AI opponent, animations, etc.), feel free to fork the repo and submit a pull request.
 
 ---
