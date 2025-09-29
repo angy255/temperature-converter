@@ -51,10 +51,6 @@ A simple web application built with **HTML, CSS, and JavaScript** that converts 
 
 ## 📸 Screenshots
 
-<img width="1792" height="860" alt="temp-convert-home-page-screenshot" src="https://github.com/user-attachments/assets/a436ea3e-310f-4a98-b143-dfc5b8326fb0" />
-
----
-
 <img width="1792" height="875" alt="temp-convert-hot-weather-screenshot" src="https://github.com/user-attachments/assets/f23d6373-b0cf-43e0-ba3d-43d1fe66a630" />
 
 ---
